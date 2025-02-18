@@ -54,16 +54,16 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94767453646'] //ur owner number
-global.ownername = "😎៚ᴍʀͥ.ᴀͣᴍͫɪʏᴀ͢⁸⁵⁴¹⃟✦⃝̮̮〽️ 😈" //ur owner name
+global.vcardowner = ['254723413973'] //ur owner number
+global.ownername = "😎 shadrack 〽️ 😈" //ur owner name
 global.ytname = "YT - TechwithAmee" //ur yt chanel name
 global.socialm = "amiyaprogramer@gmail.com" //ur github or insta name
-global.location = "Srilanka , Southern province , Hambantota" //ur location
+global.location = "Kenya , Coast province , anywhere" //ur location
 
 //bot bomdy 
-global.owner = ['94767453646']
+global.owner = ['254723413973']
 global.ownertag = '94767453646' //ur tag number
-global.botname = '🐉 𝙰𝙼𝙸𝚈𝙰 𝙳𝚁𝙰𝙶𝙾𝙽 𝙱𝙾𝚃 🐉' //ur bot name
+global.botname = '🐉 SHEDDY 𝙳𝚁𝙰𝙶𝙾𝙽 𝙱𝙾𝚃 🐉' //ur bot name
 global.linkz = "https://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ" //ur website to be displayed
 global.botscript = 'This whatsapp md bot is testing now. we release this bot immediatly🥰.' //script link
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/botsis.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/botsis.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['94767453646'] //ur premium numbers
+global.premium = ['254723413973'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
